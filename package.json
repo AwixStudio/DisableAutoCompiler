@@ -8,5 +8,11 @@
 	"author": {
 		"name": "Dawid Płowiec",
 		"url": "https://www.https://github.com/AwixStudio"
-	}
+	},
+  	"keywords": [
+    		"ScritableObject",
+    		"Variable",
+    		"Attribute",
+    		"Inspector"
+  	]
 }
