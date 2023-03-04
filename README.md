@@ -1,5 +1,12 @@
 DisableAutoCompiler is simple unity package for disabling default auto compilation on focus after code change.
 
+How to install:
+1. In unity open Package Manager. Window -> Package Manager.
+2. Click the Plus button.
+3. Select "add package from git URL"
+4. https://github.com/AwixStudio/DisableAutoCompiler.git#main
+5. Add.
+
 How to use:
 1. Toggle package in Tools/Auto Compiler/Toggle.
 
