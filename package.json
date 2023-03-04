@@ -4,10 +4,10 @@
 	"displayName": "Disable Auto Compiler",
 	"description": "",
 	"unity": "2021.3",
-	"unityRelease": "15f1"
-},
-"author": {
+	"unityRelease": "15f1",
+	"author": 
+	{
 	"name": "Dawid Płowiec",
 	"url": "https://www.https://github.com/AwixStudio"
-}
+	}
 }
