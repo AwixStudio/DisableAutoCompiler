@@ -20,4 +20,5 @@ Manual compilation:
 Press (ctrl + r) for manual compilation.
 
 Warning:
+
 Please keep in mind that this setting is shared between all projects on your machine. If you toggle compiler in one project it will be also toggled in other projects (even projects without this package).
